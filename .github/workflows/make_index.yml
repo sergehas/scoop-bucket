@@ -11,10 +11,9 @@ jobs:
     - uses: actions/checkout@main
     - run: |
         bin/makeindex.ps1
-    - uses: EndBug/add-and-commit@v9
+    - uses: EndBug/add-and-commit@v10
       with:
         add: 'README.md'
-        branch: master
         author_name: make_index-workflow
         author_email: noreply@ci.cd
         message: '(chore): update app index [scoop skip]'
