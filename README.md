@@ -33,4 +33,4 @@ wiki page.
 <!-- Your edits will be lost the next time makeindex.ps1 is run -->
 |Name|Version|Description|
 |----|-------|-----------|
-|[checkov](https://www.checkov.io/)|[3.2.524](https://www.checkov.io/)|A static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages.|
+|[checkov](https://www.checkov.io/)|[3.2.525](https://www.checkov.io/)|A static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages.|
