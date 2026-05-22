@@ -34,3 +34,4 @@ wiki page.
 |Name|Version|Description|
 |----|-------|-----------|
 |[checkov](https://www.checkov.io/)|[3.2.529](https://www.checkov.io/)|A static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages.|
+|[ganttproject](https://github.com/bardsoftware/ganttproject)|[3.3.3316](https://github.com/bardsoftware/ganttproject)|Free project scheduling and management app for Windows, OSX and Linux.|
